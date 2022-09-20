@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Joseph Humberto Cueva</h1>
 
 <!--
 **jhcueva/jhcueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
