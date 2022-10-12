@@ -1,4 +1,4 @@
-<h1 align="center">Hi <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>, I'm Joseph Humberto Cueva</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Joseph Humberto Cueva</h1>
 
 <h3 align="left">About me:</h3>
 <ul>
